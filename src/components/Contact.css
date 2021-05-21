@@ -1,0 +1,47 @@
+.contactcontainer{
+    padding: 1.5%;
+    width: 100%;
+    
+}
+h1{
+    margin-bottom: 30px;
+}
+.block-container{
+    width: 100%;
+    display: flex;
+}
+.contact-column{
+    width: 50%;
+}
+.form-item{
+    padding-bottom: 15px;
+}
+input{
+    background-color:  rgb(235, 235, 235);
+    height: 30px;
+    width: 50%;
+    border-radius: 5px;
+    border-color: transparent;
+}
+textarea{
+    background-color:  rgb(235, 235, 235);
+    border-color: transparent;
+    resize: none;
+    border-radius: 5px;
+}
+button{
+    font-size: 20px;
+    background-color: rgb(98, 153, 255);
+    border-color: transparent;
+    padding: 5px;
+    border-radius: 5px;
+    color: white;
+}
+h2{
+    margin-bottom: 10px;
+    font-size: 30px;
+}
+.contact-item{
+    margin-bottom: 20px;
+    font-size: 20px;
+}

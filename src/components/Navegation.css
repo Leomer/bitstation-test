@@ -1,0 +1,16 @@
+li{
+    font-size: 20px;
+    display: inline-block;
+    padding: 20px 30px;
+    
+}
+header{
+    display: flex;
+    justify-content: space-between;
+    background-color: rgb(32, 32, 32);        
+    align-items: center;
+}
+.linkbar{
+    text-decoration: none;
+    color: white;
+}
