@@ -1,21 +1,24 @@
 {
   "files": {
-    "main.css": "/bitstation-test/static/css/main.179d28c9.chunk.css",
-    "main.js": "/bitstation-test/static/js/main.08e220a7.chunk.js",
-    "main.js.map": "/bitstation-test/static/js/main.08e220a7.chunk.js.map",
+    "main.css": "/bitstation-test/static/css/main.9b647ac7.chunk.css",
+    "main.js": "/bitstation-test/static/js/main.071a1098.chunk.js",
+    "main.js.map": "/bitstation-test/static/js/main.071a1098.chunk.js.map",
     "runtime-main.js": "/bitstation-test/static/js/runtime-main.252ffc6c.js",
     "runtime-main.js.map": "/bitstation-test/static/js/runtime-main.252ffc6c.js.map",
     "static/js/2.e778e52e.chunk.js": "/bitstation-test/static/js/2.e778e52e.chunk.js",
     "static/js/2.e778e52e.chunk.js.map": "/bitstation-test/static/js/2.e778e52e.chunk.js.map",
     "index.html": "/bitstation-test/index.html",
-    "static/css/main.179d28c9.chunk.css.map": "/bitstation-test/static/css/main.179d28c9.chunk.css.map",
+    "static/css/main.9b647ac7.chunk.css.map": "/bitstation-test/static/css/main.9b647ac7.chunk.css.map",
     "static/js/2.e778e52e.chunk.js.LICENSE.txt": "/bitstation-test/static/js/2.e778e52e.chunk.js.LICENSE.txt",
+    "static/media/Correo.000cbac1.png": "/bitstation-test/static/media/Correo.000cbac1.png",
+    "static/media/Mapas.fcda8408.svg": "/bitstation-test/static/media/Mapas.fcda8408.svg",
+    "static/media/Whatsapp.55083ec8.svg": "/bitstation-test/static/media/Whatsapp.55083ec8.svg",
     "static/media/pcb.866cd49f.png": "/bitstation-test/static/media/pcb.866cd49f.png"
   },
   "entrypoints": [
     "static/js/runtime-main.252ffc6c.js",
     "static/js/2.e778e52e.chunk.js",
-    "static/css/main.179d28c9.chunk.css",
-    "static/js/main.08e220a7.chunk.js"
+    "static/css/main.9b647ac7.chunk.css",
+    "static/js/main.071a1098.chunk.js"
   ]
 }
