@@ -1,21 +1,21 @@
 {
   "files": {
     "main.css": "/bitstation-test/static/css/main.179d28c9.chunk.css",
-    "main.js": "/bitstation-test/static/js/main.92534987.chunk.js",
-    "main.js.map": "/bitstation-test/static/js/main.92534987.chunk.js.map",
+    "main.js": "/bitstation-test/static/js/main.08e220a7.chunk.js",
+    "main.js.map": "/bitstation-test/static/js/main.08e220a7.chunk.js.map",
     "runtime-main.js": "/bitstation-test/static/js/runtime-main.252ffc6c.js",
     "runtime-main.js.map": "/bitstation-test/static/js/runtime-main.252ffc6c.js.map",
-    "static/js/2.f61a2def.chunk.js": "/bitstation-test/static/js/2.f61a2def.chunk.js",
-    "static/js/2.f61a2def.chunk.js.map": "/bitstation-test/static/js/2.f61a2def.chunk.js.map",
+    "static/js/2.e778e52e.chunk.js": "/bitstation-test/static/js/2.e778e52e.chunk.js",
+    "static/js/2.e778e52e.chunk.js.map": "/bitstation-test/static/js/2.e778e52e.chunk.js.map",
     "index.html": "/bitstation-test/index.html",
     "static/css/main.179d28c9.chunk.css.map": "/bitstation-test/static/css/main.179d28c9.chunk.css.map",
-    "static/js/2.f61a2def.chunk.js.LICENSE.txt": "/bitstation-test/static/js/2.f61a2def.chunk.js.LICENSE.txt",
+    "static/js/2.e778e52e.chunk.js.LICENSE.txt": "/bitstation-test/static/js/2.e778e52e.chunk.js.LICENSE.txt",
     "static/media/pcb.866cd49f.png": "/bitstation-test/static/media/pcb.866cd49f.png"
   },
   "entrypoints": [
     "static/js/runtime-main.252ffc6c.js",
-    "static/js/2.f61a2def.chunk.js",
+    "static/js/2.e778e52e.chunk.js",
     "static/css/main.179d28c9.chunk.css",
-    "static/js/main.92534987.chunk.js"
+    "static/js/main.08e220a7.chunk.js"
   ]
 }
